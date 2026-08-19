@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://how-to-avoid-trekking-scams-in-nepal.pages.dev/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
